@@ -142,7 +142,7 @@ Neo4j Graph Database
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/learning-path-recommendation-system.git
+git clone https://github.com/MinukuriRishaReddy/SkillGraph.git
 
 cd learning-path-recommendation-system
 ```
