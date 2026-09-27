@@ -144,7 +144,7 @@ Neo4j Graph Database
 ```bash
 git clone https://github.com/MinukuriRishaReddy/SkillGraph.git
 
-cd learning-path-recommendation-system
+cd SkillGraph
 ```
 
 ### Create Virtual Environment
