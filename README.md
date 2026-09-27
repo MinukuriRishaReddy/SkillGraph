@@ -299,7 +299,7 @@ Learning-Path-Recommendation-System/
 
 ## 👨‍💻 Author
 
-**Risha Reddy Minukuri**
+**Minukuri Risha Reddy**
 
 B.Tech Computer Science and Engineering  
 Anurag University, Hyderabad
