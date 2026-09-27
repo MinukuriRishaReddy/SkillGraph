@@ -1,4 +1,4 @@
-## #🎓 Skill Graph
+## 🎓 #Skill Graph
 Learning Path Recommendation System using Skill Graph and Graph Databases
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
