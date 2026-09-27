@@ -1,4 +1,5 @@
-# 🎓 Learning Path Recommendation System using Skill Graph and Graph Databases
+## 🎓 Skill Graph
+Learning Path Recommendation System using Skill Graph and Graph Databases
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Django](https://img.shields.io/badge/Backend-Django-green)
