@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: learning-path-backend
+    env: python
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn RecommendationSystem.wsgi:application --bind 0.0.0.0:$PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.0
+      - key: DEBUG
+        value: "False"
+      # You MUST add these in the Render Dashboard manually:
+      # - NEO4J_URI
+      # - NEO4J_USER
+      # - NEO4J_PASSWORD
+      # - DATABASE_URL (Supabase connection string)
+      # - DJANGO_SECRET_KEY
